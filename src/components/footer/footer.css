@@ -1,0 +1,48 @@
+.footer{
+    width: 1512px;
+    height: 365px;
+    top: 4174px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #EDF2F4;
+}
+.footer__nav{
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.navs{
+    width: 180px;
+    height: 141px;
+    top: 4286px;
+    left: 505px;
+    gap: 0px;
+    opacity: 0px;
+}
+.loremm{
+    width: 186px;
+    height: 70px;
+    top: 4350px;
+    left: 131px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16.94px;
+    text-align: justified;
+}
+h5{
+    font-family: Inter
+    Weight 600;
+    font-size: 16px;
+    height: 19.36px
+}
+h6{
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 16px;
+    height:19.36px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}

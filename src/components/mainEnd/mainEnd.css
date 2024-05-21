@@ -1,0 +1,33 @@
+.nav-a {
+    margin-left: 565px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.36px;
+    text-align: center;
+    text-decoration: none;
+    padding-left: 48px;
+    padding-right: 48px;
+    color: #000000;
+}
+.cardd{
+    margin-top: 150px;
+    width: 370px;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-bottom: 80px;
+}
+.svgg{
+    padding-left: 180px;
+}
+.nav-h4{
+    font-family: Lalezar;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 60px;
+    text-align: center;
+    color: #000000;
+}
+.cards{
+    display: flex;
+}
